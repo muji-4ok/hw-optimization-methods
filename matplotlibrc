@@ -1,0 +1,9 @@
+xtick.major.size: 15
+xtick.major.width: 1
+xtick.bottom: True
+ytick.left: True
+axes.labelsize: 16
+axes.titlesize: 20
+legend.fontsize: 16
+figure.figsize: 14, 7
+
